@@ -4,9 +4,11 @@
 
 - Room Database
 - RecyclerView
-- CardView
+- Spinner
 - ViewBinding
-- App Icon
+- AppIcon
+- Serializable
+- CurrentDate
 
 
 ![notesapp](https://user-images.githubusercontent.com/88456285/220210464-b40a4df4-b5b6-48e7-8b6b-5f565ceab739.jpg)
