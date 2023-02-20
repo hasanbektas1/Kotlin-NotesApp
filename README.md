@@ -1,4 +1,6 @@
-# Kotlin-NotesApp
+<h1 align="center">
+Notes App
+</h1>
 
 ## Kullanılan Teknolojiler
 
