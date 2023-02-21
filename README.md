@@ -10,7 +10,7 @@ NotesApp
 - ViewBinding
 - AppIcon
 - Serializable
-- CurrentDate
+- CurrentDatee
 
 Bu uygulamamda notlarımızı telefon hafızasına kaydedebilir, silebilir veya güncelleyebiliriz ayrıca listeleme ekranında kategoriye göre filtreleme yapabiliriz.
 
